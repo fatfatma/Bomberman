@@ -2,13 +2,10 @@
 
 A fully-featured online multiplayer Bomberman game implementing **9 design patterns** as part of the Design Patterns course project.
 
-## 👥 Team Members
-- **Fatma Yıldız** - 220401086
-- **Dilan Elif Başboğa** - 220401033
-- **Class:** Computer Engineering, 3rd Year
-- **Course:** Design Patterns (2025)
-- **Instructor:** Prof. Dr. Doğan Aydın
-- **University:** İzmir Katip Çelebi University
+## 👥 Team
+- **Members**: Fatma Yıldız, Dilan Elif Başboğa
+- **Program**: Computer Engineering, 3rd year
+- **Course**: Design Patterns (2025)
 
 ---
 
@@ -542,7 +539,3 @@ Educational project for İzmir Katip Çelebi University Design Patterns course (
 - Design pattern resources
 
 ---
-
-**Last Updated:** December 24, 2025  
-**Status:** ✅ Complete & Tested
->>>>>>> 230f922 (İlk commit: Proje dosyaları eklendi)
